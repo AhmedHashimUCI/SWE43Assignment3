@@ -6,4 +6,4 @@ Favorite Restaurant: Anything, I will eat
 Favorite Hobby: Playing the Piano
 Favorite Programing Language: Java
 
-Learning Goal: I want to learn cybersecurity this year.
+Learning Goal: I want to learn machine learning and cybersecurity this year.
